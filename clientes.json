@@ -1,4 +1,7 @@
 {
+  "version": "1.0",
+  "app": true,
+  "mensaje": "Bienvenido a TVLEGAL",
   "clientes": [
     {
       "id": "prueba001",
