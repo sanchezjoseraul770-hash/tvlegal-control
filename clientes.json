@@ -1,0 +1,9 @@
+{
+  "clientes": [
+    {
+      "id": "prueba001",
+      "activo": true,
+      "nombre": "Cliente Prueba"
+    }
+  ]
+}
