@@ -2,51 +2,285 @@
 "version": "1.0",
 "mensaje": "TVLEGAL",
 "canales": [
-{"id":1,"nombre":"Canal 1","color":"#2196F3","url":"http://138.36.253.106:8066/play/a01h/index.m3u8?hls","activo":true},
-{"id":2,"nombre":"Canal 2","color":"#2196F3","url":"http://190.61.101.11:7050/play/a06o/index.m3u8?hls","activo":true},
-{"id":3,"nombre":"Canal 3","color":"#2196F3","url":"","activo":true},
-{"id":4,"nombre":"Canal 4","color":"#2196F3","url":"","activo":true},
-{"id":5,"nombre":"Canal 5","color":"#2196F3","url":"","activo":true},
-{"id":6,"nombre":"Canal 6","color":"#2196F3","url":"","activo":true},
-{"id":7,"nombre":"Canal 7","color":"#2196F3","url":"","activo":true},
-{"id":8,"nombre":"Canal 8","color":"#2196F3","url":"","activo":true},
-{"id":9,"nombre":"Canal 9","color":"#2196F3","url":"","activo":true},
-{"id":10,"nombre":"Canal 10","color":"#2196F3","url":"","activo":true},
-
-```
-{"id":11,"nombre":"Canal 11","color":"#4CAF50","url":"","activo":true},
-{"id":12,"nombre":"Canal 12","color":"#4CAF50","url":"","activo":true},
-{"id":13,"nombre":"Canal 13","color":"#4CAF50","url":"","activo":true},
-{"id":14,"nombre":"Canal 14","color":"#4CAF50","url":"","activo":true},
-{"id":15,"nombre":"Canal 15","color":"#4CAF50","url":"","activo":true},
-{"id":16,"nombre":"Canal 16","color":"#4CAF50","url":"","activo":true},
-{"id":17,"nombre":"Canal 17","color":"#4CAF50","url":"","activo":true},
-{"id":18,"nombre":"Canal 18","color":"#4CAF50","url":"","activo":true},
-{"id":19,"nombre":"Canal 19","color":"#4CAF50","url":"","activo":true},
-{"id":20,"nombre":"Canal 20","color":"#4CAF50","url":"","activo":true},
-
-{"id":21,"nombre":"Canal 21","color":"#FF9800","url":"","activo":true},
-{"id":22,"nombre":"Canal 22","color":"#FF9800","url":"","activo":true},
-{"id":23,"nombre":"Canal 23","color":"#FF9800","url":"","activo":true},
-{"id":24,"nombre":"Canal 24","color":"#FF9800","url":"","activo":true},
-{"id":25,"nombre":"Canal 25","color":"#FF9800","url":"","activo":true},
-{"id":26,"nombre":"Canal 26","color":"#FF9800","url":"","activo":true},
-{"id":27,"nombre":"Canal 27","color":"#FF9800","url":"","activo":true},
-{"id":28,"nombre":"Canal 28","color":"#FF9800","url":"","activo":true},
-{"id":29,"nombre":"Canal 29","color":"#FF9800","url":"","activo":true},
-{"id":30,"nombre":"Canal 30","color":"#FF9800","url":"","activo":true},
-
-{"id":31,"nombre":"Canal 31","color":"#9C27B0","url":"","activo":true},
-{"id":32,"nombre":"Canal 32","color":"#9C27B0","url":"","activo":true},
-{"id":33,"nombre":"Canal 33","color":"#9C27B0","url":"","activo":true},
-{"id":34,"nombre":"Canal 34","color":"#9C27B0","url":"","activo":true},
-{"id":35,"nombre":"Canal 35","color":"#9C27B0","url":"","activo":true},
-{"id":36,"nombre":"Canal 36","color":"#9C27B0","url":"","activo":true},
-{"id":37,"nombre":"Canal 37","color":"#9C27B0","url":"","activo":true},
-{"id":38,"nombre":"Canal 38","color":"#9C27B0","url":"","activo":true},
-{"id":39,"nombre":"Canal 39","color":"#9C27B0","url":"","activo":true},
-{"id":40,"nombre":"Canal 40","color":"#9C27B0","url":"","activo":true}
-```
-
+{
+"id": 1,
+"nombre": "Canal 1",
+"color": "#2196F3",
+"url": "http://138.36.253.106:8066/play/a01h/index.m3u8?hls",
+"activo": true
+},
+{
+"id": 2,
+"nombre": "Canal 2",
+"color": "#2196F3",
+"url": "http://190.61.101.11:7050/play/a06o/index.m3u8?hls",
+"activo": true
+},
+{
+"id": 3,
+"nombre": "Canal 3",
+"color": "#2196F3",
+"url": "",
+"activo": true
+},
+{
+"id": 4,
+"nombre": "Canal 4",
+"color": "#2196F3",
+"url": "",
+"activo": true
+},
+{
+"id": 5,
+"nombre": "Canal 5",
+"color": "#2196F3",
+"url": "",
+"activo": true
+},
+{
+"id": 6,
+"nombre": "Canal 6",
+"color": "#2196F3",
+"url": "",
+"activo": true
+},
+{
+"id": 7,
+"nombre": "Canal 7",
+"color": "#2196F3",
+"url": "",
+"activo": true
+},
+{
+"id": 8,
+"nombre": "Canal 8",
+"color": "#2196F3",
+"url": "",
+"activo": true
+},
+{
+"id": 9,
+"nombre": "Canal 9",
+"color": "#2196F3",
+"url": "",
+"activo": true
+},
+{
+"id": 10,
+"nombre": "Canal 10",
+"color": "#2196F3",
+"url": "",
+"activo": true
+},
+{
+"id": 11,
+"nombre": "Canal 11",
+"color": "#4CAF50",
+"url": "",
+"activo": true
+},
+{
+"id": 12,
+"nombre": "Canal 12",
+"color": "#4CAF50",
+"url": "",
+"activo": true
+},
+{
+"id": 13,
+"nombre": "Canal 13",
+"color": "#4CAF50",
+"url": "",
+"activo": true
+},
+{
+"id": 14,
+"nombre": "Canal 14",
+"color": "#4CAF50",
+"url": "",
+"activo": true
+},
+{
+"id": 15,
+"nombre": "Canal 15",
+"color": "#4CAF50",
+"url": "",
+"activo": true
+},
+{
+"id": 16,
+"nombre": "Canal 16",
+"color": "#4CAF50",
+"url": "",
+"activo": true
+},
+{
+"id": 17,
+"nombre": "Canal 17",
+"color": "#4CAF50",
+"url": "",
+"activo": true
+},
+{
+"id": 18,
+"nombre": "Canal 18",
+"color": "#4CAF50",
+"url": "",
+"activo": true
+},
+{
+"id": 19,
+"nombre": "Canal 19",
+"color": "#4CAF50",
+"url": "",
+"activo": true
+},
+{
+"id": 20,
+"nombre": "Canal 20",
+"color": "#4CAF50",
+"url": "",
+"activo": true
+},
+{
+"id": 21,
+"nombre": "Canal 21",
+"color": "#FF9800",
+"url": "",
+"activo": true
+},
+{
+"id": 22,
+"nombre": "Canal 22",
+"color": "#FF9800",
+"url": "",
+"activo": true
+},
+{
+"id": 23,
+"nombre": "Canal 23",
+"color": "#FF9800",
+"url": "",
+"activo": true
+},
+{
+"id": 24,
+"nombre": "Canal 24",
+"color": "#FF9800",
+"url": "",
+"activo": true
+},
+{
+"id": 25,
+"nombre": "Canal 25",
+"color": "#FF9800",
+"url": "",
+"activo": true
+},
+{
+"id": 26,
+"nombre": "Canal 26",
+"color": "#FF9800",
+"url": "",
+"activo": true
+},
+{
+"id": 27,
+"nombre": "Canal 27",
+"color": "#FF9800",
+"url": "",
+"activo": true
+},
+{
+"id": 28,
+"nombre": "Canal 28",
+"color": "#FF9800",
+"url": "",
+"activo": true
+},
+{
+"id": 29,
+"nombre": "Canal 29",
+"color": "#FF9800",
+"url": "",
+"activo": true
+},
+{
+"id": 30,
+"nombre": "Canal 30",
+"color": "#FF9800",
+"url": "",
+"activo": true
+},
+{
+"id": 31,
+"nombre": "Canal 31",
+"color": "#9C27B0",
+"url": "",
+"activo": true
+},
+{
+"id": 32,
+"nombre": "Canal 32",
+"color": "#9C27B0",
+"url": "",
+"activo": true
+},
+{
+"id": 33,
+"nombre": "Canal 33",
+"color": "#9C27B0",
+"url": "",
+"activo": true
+},
+{
+"id": 34,
+"nombre": "Canal 34",
+"color": "#9C27B0",
+"url": "",
+"activo": true
+},
+{
+"id": 35,
+"nombre": "Canal 35",
+"color": "#9C27B0",
+"url": "",
+"activo": true
+},
+{
+"id": 36,
+"nombre": "Canal 36",
+"color": "#9C27B0",
+"url": "",
+"activo": true
+},
+{
+"id": 37,
+"nombre": "Canal 37",
+"color": "#9C27B0",
+"url": "",
+"activo": true
+},
+{
+"id": 38,
+"nombre": "Canal 38",
+"color": "#9C27B0",
+"url": "",
+"activo": true
+},
+{
+"id": 39,
+"nombre": "Canal 39",
+"color": "#9C27B0",
+"url": "",
+"activo": true
+},
+{
+"id": 40,
+"nombre": "Canal 40",
+"color": "#9C27B0",
+"url": "",
+"activo": true
+}
 ]
 }
