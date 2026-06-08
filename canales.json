@@ -6,14 +6,14 @@
 "id": 1,
 "nombre": "Canal 1",
 "color": "#2196F3",
-"url": "http://138.36.253.106:8066/play/a01h/index.m3u8?hls",
+"url": "http://190.61.101.11:7050/play/a06o/index.m3u8?hls",
 "activo": true
 },
 {
 "id": 2,
 "nombre": "Canal 2",
 "color": "#2196F3",
-"url": "http://190.61.101.11:7050/play/a06o/index.m3u8?hls",
+"url": "",
 "activo": true
 },
 {
