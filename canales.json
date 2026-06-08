@@ -8,7 +8,7 @@
       "categoria": "DEPORTES PREMIUM",
       "nombre": "ESPN DEPORTES",
       "color": "#2196F3",
-      "url": "http://190.61.101.11:7050/play/a09k/index.m3u8?hls",
+      "url": "",
       "activo": true
     },
     {
@@ -16,7 +16,7 @@
       "categoria": "DEPRTES PREMIUM",
       "nombre": "ESPN 2",
       "color": "#2196F3",
-      "url": "http://190.61.101.11:7050/play/a05c/index.m3u8?hls",
+      "url": "",
       "activo": true
     },
     {
@@ -24,7 +24,7 @@
       "categoria": "DEPORTES PREMIUM",
       "nombre": "ESPN 3",
       "color": "#2196F3",
-      "url": "http://190.61.101.11:7050/play/a05d/index.m3u8?hls",
+      "url": "",
       "activo": true
     },
     {
