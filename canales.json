@@ -1,7 +1,8 @@
 {
-"version": "1.0",
-"mensaje": "TVLEGAL",
-"canales": [
+  "activo": true,
+  "version": "1.0",
+  "mensaje": "TVLEGAL",
+  "canales": [
 {
 "id": 1,
 "nombre": "Canal 1",
