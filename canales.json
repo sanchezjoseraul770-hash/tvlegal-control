@@ -6,7 +6,7 @@
 "id": 1,
 "nombre": "Canal 1",
 "color": "#2196F3",
-"url": "http://190.61.101.11:7050/play/a06o/index.m3u8?hls",
+"url": "http://138.36.253.106:8066/play/a017/index.m3u8?hls",
 "activo": true
 },
 {
