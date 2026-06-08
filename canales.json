@@ -5,26 +5,26 @@
   "canales": [
     {
       "id": 1,
-      "categoria": "tv",
-      "nombre": "Canal 1",
+      "categoria": "DEPORTES PREMIUM",
+      "nombre": "ESPN DEPORTES",
       "color": "#2196F3",
-      "url": "",
+      "url": "http://190.61.101.11:7050/play/a09k/index.m3u8?hls",
       "activo": true
     },
     {
       "id": 2,
-      "categoria": "tv",
-      "nombre": "Canal 2",
+      "categoria": "DEPRTES PREMIUM",
+      "nombre": "ESPN 2",
       "color": "#2196F3",
-      "url": "",
+      "url": "http://190.61.101.11:7050/play/a05c/index.m3u8?hls",
       "activo": true
     },
     {
       "id": 3,
-      "categoria": "tv",
-      "nombre": "Canal 3",
+      "categoria": "DEPORTES PREMIUM",
+      "nombre": "ESPN 3",
       "color": "#2196F3",
-      "url": "",
+      "url": "http://190.61.101.11:7050/play/a05d/index.m3u8?hls",
       "activo": true
     },
     {
