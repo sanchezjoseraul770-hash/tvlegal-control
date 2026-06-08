@@ -7,7 +7,7 @@
 "nombre": "Canal 1",
 "color": "#2196F3",
 "url": "http://138.36.253.106:8066/play/a017/index.m3u8?hls",
-"activo": false
+"activo": true
 },
 {
 "id": 2,
