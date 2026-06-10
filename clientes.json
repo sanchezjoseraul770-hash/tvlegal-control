@@ -11,7 +11,7 @@
 {
 "id": "cliente002",
 "nombre": "Cliente 2",
-"activo": false
+"activo": true
 },
 {
 "id": "cliente003",
