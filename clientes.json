@@ -4,11 +4,6 @@
 "mensaje": "Bienvenido a TVLEGAL",
 "clientes": [
 {
-"id": "cliente001",
-"nombre": "Cliente 1",
-"activo": true
-},
-{
 "id": "cliente002",
 "nombre": "Cliente 2",
 "activo": true
