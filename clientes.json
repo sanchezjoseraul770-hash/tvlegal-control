@@ -6,47 +6,56 @@
     {
       "id": "cliente001",
       "nombre": "Cliente 1",
-      "activo": true
+      "activo": true,
+      "aviso": false
     },
     {
       "id": "cliente002",
       "nombre": "Cliente 2",
-      "activo": true
+      "activo": true,
+      "aviso": false
     },
     {
       "id": "cliente003",
       "nombre": "Cliente 3",
-      "activo": true
+      "activo": true,
+      "aviso": false
     },
     {
       "id": "cliente004",
       "nombre": "Cliente 4",
-      "activo": true
+      "activo": true,
+      "aviso": false
     },
     {
       "id": "cliente005",
       "nombre": "Cliente 5",
-      "activo": true
+      "activo": true,
+      "aviso": false
     },
     {
       "id": "cliente006",
       "nombre": "Cliente 6",
-      "activo": true
+      "activo": true,
+      "aviso": false
     },
     {
       "id": "cliente007",
       "nombre": "Cliente 7",
-      "activo": true
+      "activo": true,
+      "aviso": false
     },
     {
       "id": "cliente008",
       "nombre": "Cliente 8",
-      "activo": true
+      "activo": true,
+      "aviso": false
     },
     {
       "id": "cliente009",
       "nombre": "Cliente 9",
-      "activo": true
+      "activo": true,
+      "aviso": false
     }
   ]
 }
